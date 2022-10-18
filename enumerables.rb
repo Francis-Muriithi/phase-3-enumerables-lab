@@ -71,3 +71,5 @@ print_spiciest_foods(spicy_foods)
 def average_heat_level(spicy_foods)
   # your code here
 end
+
+binding.pry
